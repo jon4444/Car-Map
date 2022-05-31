@@ -43,6 +43,8 @@ public class MainActivity3 extends AppCompatActivity implements NavigationView.O
                     new MessageFragment()).commit();
             navigationView.setCheckedItem(R.id.nav_message);
         }
+
+
     }
 
 
